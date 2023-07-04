@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Dark Mode - Next.js
+
+Light Mode
+
+<img src="https://github.com/nihalwashere/dark-mode-nextjs/blob/master/light.png?raw=true" alt="Light" />
+
+Dark Mode
+
+<img src="https://github.com/nihalwashere/dark-mode-nextjs/blob/master/dark.png?raw=true" alt="Dark" />
 
 ## Getting Started
 
